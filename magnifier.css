@@ -7,7 +7,7 @@
 
 .magnifier-lens {
     position: absolute;
-    border: solid 10px #ccc;
+    border: solid 1px #ccc;
     z-index: 1000;
     border-radius: 50%;
     top: 0;
